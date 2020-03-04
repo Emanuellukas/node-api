@@ -1,4 +1,4 @@
-node-api
+<strong> Node-api </strong>
 Projeto pessoal. Criando uma API em NodeJs, aprendendo a usar a plataforma.
 
 Tecnologias instaladas na aplicação:
