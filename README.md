@@ -1,7 +1,7 @@
 <strong> Node-api </strong> <br>
 Projeto pessoal. Criando uma API em NodeJs, aprendendo a usar a plataforma. <br><br>
 
-Tecnologias instaladas na aplicação:<br><br>
+<strong>Tecnologias instaladas na aplicação:</strong><br>
 
 - Express (gerenciamento das rotas) <br>
 - Mongoose (ORM para conexões MongoDB)<br>
